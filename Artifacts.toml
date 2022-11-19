@@ -1,0 +1,17 @@
+[[MINE]]
+arch = "x86_64"
+git-tree-sha1 = "86e951178f5f1180ba2ec2825deb6d1379302a9a"
+libc = "glibc"
+os = "linux"
+
+    [[MINE.download]]
+    sha256 = "c66ea291fc80ab314518638a1e0923a1c953fa1ff58bd9a54d987662448edfda"
+    url = "https://github.com/yezhengkai/MINE_jll.jl/releases/download/MINE-v1.2.6+0\\MINE.v1.2.6.x86_64-linux-gnu.tar.gz"
+[[MINE]]
+arch = "x86_64"
+git-tree-sha1 = "d4fc8b5adae13c98aabfd4cd6965445ad48f6b45"
+os = "windows"
+
+    [[MINE.download]]
+    sha256 = "7437b165f55efc3dc5936b0c522a432986a03ae3115dc2f3cd8006d6ccc024af"
+    url = "https://github.com/yezhengkai/MINE_jll.jl/releases/download/MINE-v1.2.6+0\\MINE.v1.2.6.x86_64-w64-mingw32.tar.gz"
